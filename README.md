@@ -5,7 +5,7 @@
 <br>
     
 <img
-  src = 'https://cdn.jsdelivr.net/gh/Aptivi/NetLimDisable@main/NetLimDisable/OfficialAppIcon-NetLimDisable-512.png'
+  src = 'https://cdn.jsdelivr.net/gh/Aptivi/NetLimDisable@main/NetLimDisable/OfficialAppIcon-WinPowerTools-512.png'
   width = 256
   align = center
 />
